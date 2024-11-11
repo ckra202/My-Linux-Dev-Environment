@@ -6,6 +6,7 @@ This is a step by step guide on how I overwrite my windows 10 laptop to put on a
 
 ## Table of Contents
 -[Overview](#overview)
+
 This guide explains how to fully replace windows 10 with a linux distribution and set up a development environment. This is ideal for users who want a clean, dedicated Linux machine for programming and development.
 -[Prerequisites](#prerequisites) 
 -[Step-by-step Installation](#step-by-step-installation)
